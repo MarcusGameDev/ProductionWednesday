@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+
+    public float count = 12;
     // Start is called before the first frame update
     void Start()
     {
